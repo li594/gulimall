@@ -1,0 +1,2 @@
+spring.cloud.nacos.config.server-addr=127.0.0.1:8848
+spring.cloud.nacos.config.namespace=1cf8d561-5962-464e-9a96-bab5d99876d9
